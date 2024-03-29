@@ -31,7 +31,7 @@ main {
 main .backButton {
     position: absolute;
     left: calc(50vw - (620px / 2) + 24px);
-    top: 208px;
+    top: 172px;
     font-size: 48pt;
     text-decoration: none;
     color: var(--orange);
