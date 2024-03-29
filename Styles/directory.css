@@ -17,7 +17,7 @@ body {
 }
 
 main {
-    margin-top: 200px;
+    margin-top: 164px;
     margin-left: calc(50vw - (620px / 2));
     padding: 20px 0 0 0;
     background-color: var(--white);

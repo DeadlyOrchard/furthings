@@ -19,7 +19,7 @@ body {
 main {
     width: 800px;
     overflow: hidden;
-    margin-top: 200px;
+    margin-top: 164px;
     margin-left: calc(50vw - (800px / 2));
     display: grid;
     grid-template-columns: 4fr 5fr;
